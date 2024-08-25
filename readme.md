@@ -11,6 +11,6 @@ python main.py -check words list
 ```
 
 ## Screenshots
-![Build](screenshots/Build.png)
+![Build](screenshots/build.png)
 
-![Check](screenshots/Check.png)
+![Check](screenshots/check.png)
